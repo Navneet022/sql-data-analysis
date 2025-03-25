@@ -26,6 +26,7 @@ ________________________________________________________________________________
 🎯 Part to Whole Analysis (Proportional Analysis): Determine the percentage contribution of categories to total sales.
 
 👥 Customer Segmentation: Segment customers based on spending behavior into VIP, Regular, and New customers.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📜 License
 
